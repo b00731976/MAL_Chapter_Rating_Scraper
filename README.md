@@ -1,5 +1,5 @@
 # MyAnimeList Manga Chapter Ratings Scraper 
-________________________________________________________________________________________________________
+
 
 ## See how readers react to your favourite manga throughout the chapters
 
