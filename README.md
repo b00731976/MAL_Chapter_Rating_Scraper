@@ -3,8 +3,7 @@ ________________________________________________________________________________
 
 ## See how readers react to your favourite manga throughout the chapters
 
-![snk_spoilerfree.PNG](attachment:snk_spoilerfree.PNG)
-
+![snk](/images/snk_spoilerfree.PNG)
 
 
 
@@ -32,6 +31,9 @@ ________________________________________________________________________________
 * You must check how the manga is spelled (JP or EN, generally JP) before the input.
 
 * You must include the total number of chapters up to date in the input.
+________________________________________________________________________________________________________
+
+![mean](/images/mean.PNG) ![std](/images/std.PNG) ![total](/images/total.PNG)
 
 ________________________________________________________________________________________________________
 Messaoudi Reda, under the MIT License 
