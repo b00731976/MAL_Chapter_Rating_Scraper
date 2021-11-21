@@ -33,7 +33,9 @@ ________________________________________________________________________________
 * You must include the total number of chapters up to date in the input.
 ________________________________________________________________________________________________________
 
-![mean](/images/mean.PNG) ![std](/images/std.PNG) ![total](/images/total.PNG)
+### Examples
+
+![mean](/images/mean.png) ![std](/images/std.png) ![total](/images/total.png)
 
 ________________________________________________________________________________________________________
 Messaoudi Reda, under the MIT License 
