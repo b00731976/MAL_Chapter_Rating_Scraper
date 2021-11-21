@@ -32,3 +32,6 @@ ________________________________________________________________________________
 * You must check how the manga is spelled (JP or EN, generally JP) before the input.
 
 * You must include the total number of chapters up to date in the input.
+
+________________________________________________________________________________________________________
+Messaoudi Reda, under the MIT License 
