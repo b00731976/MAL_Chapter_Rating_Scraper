@@ -1,4 +1,4 @@
-# MyAnimeList Manga Ratings Scraper 
+# MyAnimeList Manga Chapter Ratings Scraper 
 ________________________________________________________________________________________________________
 
 ## See how readers react to your favourite manga throughout the chapters
@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 
 
-This program is a combination of 3 scrapers that go through MyAnimeList (MAL) forums to get the average ratings, the total amount of votes and the standard deviations, per chapter.
+This program is a combination of 3 scrapers that go through MyAnimeList (MAL) forums to get the average ratings, the total amount of votes and the standard deviations of a manga, per chapter.
 ________________________________________________________________________________________________________
 
 ### 1- First Scraper: MAL Chapter Links Scraper
