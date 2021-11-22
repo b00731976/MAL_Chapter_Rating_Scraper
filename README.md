@@ -1,4 +1,4 @@
-# MyAnimeList Manga Chapter Ratings Scraper 
+# MyAnimeList Forum - Manga Chapter Ratings Scraper 
 
 
 ## See how readers react to your favourite manga throughout the chapters
